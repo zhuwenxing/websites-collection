@@ -51,5 +51,9 @@
   - [Linux也可以这样美——Ubuntu18.04安装、配置、美化-踩坑记](https://www.jianshu.com/p/f9e905abea91)
   - [Ubuntu下安装MATLAB](https://www.jianshu.com/p/60038ffa8870)和[MATLAB R2017b](https://blog.csdn.net/qq_32892383/article/details/79670871)但是感觉Ubuntu上matlab显示效果比较差。
 
-* 
+* [Weekly-Review](https://github.com/BUCT-Vision/weekly-review):一个北京化工大学计算机视觉组的周报库，组里的成员在issue中发周报，利用github云端，markdown，可拖拽文件等优点。
+
+* [小米平板4安装谷歌服务](https://www.bilibili.com/video/av28503423?t=223):小米平板4的应用商店没有谷歌服务的应用，但是一个安卓平板没有谷歌那和咸鱼有什么区别。
+
+* [板瓦工免费更换IP的方法](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)：有时候板瓦工购买的服务器的IP在一段时间后会被墙（blocked），这个时候可以检测是否被墙，如果被墙则可以免费更换一个IP地址。
 

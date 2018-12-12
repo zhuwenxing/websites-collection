@@ -6,6 +6,16 @@
 
 这个库的主要作用是记录和收藏一些有用的资料，主要网页链接为主，会为每个链接配上简要介绍。平常记录是都是乱序版，周期性会分类整理一下，分类版见顶栏链接
 
+* [Liang HUANG ](https://github.com/revenol):一个github的作者，主要内容包括MEC（移动边缘计算）和DRL（深度强化学习）的结合。
+
+  - [**DDLO**](https://github.com/revenol/DDLO)：Liang Huang, Xu Feng, Anqi Feng, Yupin Huang, and Li Ping Qian, "[Distributed Deep Learning-based Oﬄoading for Mobile Edge Computing Networks](https://doi.org/10.1007/s11036-018-1177-x)," in Mobile Networks and Applications, 2018, DOI:10.1007/s11036-018-1177-x.
+  - [**DROO**](https://github.com/revenol/DROO)：Liang Huang, Suzhi Bi, and Ying-jun Angela Zhang, **Deep Reinforcement Learning for Online Ofﬂoading in Wireless Powered Mobile-Edge Computing Networks**, submitted to *IEEE Journal on Selected Areas in Communications*.
+  - [**WPMEC**](https://github.com/revenol/WPMEC):Suzhi Bi, Liang Huang, Shengli Zhang, and Ying-jun Angela Zhang, **Deep Neural Network for Computation Rate Maximization in Wireless Powered Mobile-Edge Computing Systems**, submitted to *IEEE Wireless Communications Letters*.
+
+* [数据结构](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm):清华大学郑俊辉老师的主页，主要有MOOC网上数据结构的讲义。
+
+* [ XiaoSean](https://xiaosean.github.io/posts/):讀臺灣科技大學(NTUST)資工所(CS)碩一， 用這網站紀錄學到的點點滴滴。 
+
 * [柳婼 の blog](https://www.liuchuo.net/) :一位浙大计算机女生的博客，主要内容有计算机书籍和人文社科书籍的推荐，也有很多代码编程记录
 
 * [colah's blog](http://colah.github.io/):
@@ -56,4 +66,3 @@
 * [小米平板4安装谷歌服务](https://www.bilibili.com/video/av28503423?t=223):小米平板4的应用商店没有谷歌服务的应用，但是一个安卓平板没有谷歌那和咸鱼有什么区别。
 
 * [板瓦工免费更换IP的方法](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)：有时候板瓦工购买的服务器的IP在一段时间后会被墙（blocked），这个时候可以检测是否被墙，如果被墙则可以免费更换一个IP地址。
-
